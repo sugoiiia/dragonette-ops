@@ -1,0 +1,17 @@
+export const targets = [
+  { id: 'TGT-001', name: 'Mekong Delta', lat: 10.0, lon: 106.1, priority: 'High', status: 'captured', requestedDate: '2026-06-01', deadline: '2026-06-08' },
+  { id: 'TGT-002', name: 'Sahel Region', lat: 14.5, lon: 0.5, priority: 'High', status: 'processing', requestedDate: '2026-06-02', deadline: '2026-06-07' },
+  { id: 'TGT-003', name: 'Amazon Basin', lat: -3.5, lon: -62.0, priority: 'High', status: 'queued', requestedDate: '2026-06-04', deadline: '2026-06-10' },
+  { id: 'TGT-004', name: 'Great Barrier Reef', lat: -18.3, lon: 147.7, priority: 'Med', status: 'delivered', requestedDate: '2026-05-28', deadline: '2026-06-05' },
+  { id: 'TGT-005', name: 'Ganges Plain', lat: 25.6, lon: 83.0, priority: 'High', status: 'queued', requestedDate: '2026-06-05', deadline: '2026-06-09' },
+  { id: 'TGT-006', name: 'Central Valley, CA', lat: 36.9, lon: -120.0, priority: 'Med', status: 'processing', requestedDate: '2026-06-03', deadline: '2026-06-08' },
+  { id: 'TGT-007', name: 'Aral Sea Basin', lat: 45.0, lon: 60.0, priority: 'Low', status: 'queued', requestedDate: '2026-06-05', deadline: '2026-06-15' },
+  { id: 'TGT-008', name: 'Congo Basin', lat: -1.5, lon: 23.8, priority: 'Med', status: 'captured', requestedDate: '2026-06-02', deadline: '2026-06-09' },
+  { id: 'TGT-009', name: 'Rhine Valley', lat: 50.2, lon: 7.8, priority: 'Low', status: 'delivered', requestedDate: '2026-05-30', deadline: '2026-06-06' },
+  { id: 'TGT-010', name: 'Yellow River Delta', lat: 37.8, lon: 118.9, priority: 'High', status: 'queued', requestedDate: '2026-06-04', deadline: '2026-06-07' },
+  { id: 'TGT-011', name: 'Patagonia Glaciers', lat: -50.5, lon: -73.0, priority: 'Med', status: 'queued', requestedDate: '2026-06-05', deadline: '2026-06-12' },
+  { id: 'TGT-012', name: 'Nile Delta', lat: 31.0, lon: 31.0, priority: 'High', status: 'processing', requestedDate: '2026-06-03', deadline: '2026-06-08' },
+  { id: 'TGT-013', name: 'Murray-Darling Basin', lat: -34.5, lon: 143.0, priority: 'Low', status: 'queued', requestedDate: '2026-06-06', deadline: '2026-06-14' },
+  { id: 'TGT-014', name: 'Indus Valley', lat: 27.0, lon: 68.0, priority: 'High', status: 'captured', requestedDate: '2026-06-01', deadline: '2026-06-06' },
+  { id: 'TGT-015', name: 'Siberian Taiga', lat: 60.0, lon: 100.0, priority: 'Low', status: 'delivered', requestedDate: '2026-05-25', deadline: '2026-06-05' },
+]
